@@ -1,6 +1,6 @@
 [package]
 name = "base60"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["ChaiShushan <chaishushan@gmail.com>"]
 description = "encodes and decodes base60 as bytes or utf8"
 repository = "https://github.com/chai2010/rust-base60"
