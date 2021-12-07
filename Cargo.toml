@@ -1,0 +1,17 @@
+[package]
+name = "base60"
+version = "0.1.0"
+authors = ["ChaiShushan <chaishushan@gmail.com>"]
+description = "encodes and decodes base60 as bytes or utf8"
+repository = "https://github.com/chai2010/rust-base60"
+documentation = "https://docs.rs/base60"
+readme = "README.md"
+keywords = ["base60", "utf8", "encode", "decode", "no_std"]
+categories = ["encoding"]
+license = "MIT/Apache-2.0"
+edition = "2018"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
